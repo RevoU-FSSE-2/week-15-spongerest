@@ -1,1 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/A8ztcAuX)
+# Berikut link Deployment 
+https://crabby-bee-houndstooth.cyclic.app
+
+# Testing
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w151.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w152.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w153.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w154.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w155.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w156.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w157.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w158.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w159.png)
+
+![Alt text](https://github.com/spongerest/week-15-spongerest/blob/main/asset/w1510.png)
